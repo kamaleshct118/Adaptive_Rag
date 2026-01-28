@@ -3,7 +3,10 @@ gradio
 numpy
 opencv-python
 pdf2image
+pickle-mixin
+pillow
 pytesseract
 requests
+scikit-learn
 sentence-transformers
 tqdm

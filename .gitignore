@@ -1,0 +1,15 @@
+# User Specified Ignores
+vector_store/
+raw_documents/
+vector_store_backup.zip
+extracted_texts/
+
+# Standard Python/Jupyter Ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+env/
+.env
+.DS_Store
